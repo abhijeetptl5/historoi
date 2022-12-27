@@ -27,3 +27,6 @@ To run a model, run:
 *  `--model6`: weights for HistoROI model
 
 Model can be downloaded from [here](https://drive.google.com/file/d/1-nFuLI55PjI_v_0liRIka8PpuhGqO72a/view?usp=sharing).
+
+A typical command line for running the inference looks like
+`python inference.py --wsis /path/to/wsis`
