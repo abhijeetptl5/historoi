@@ -26,7 +26,7 @@ To run a model, run:
 *  `--level_10x`: Level corrosponding to 10x magnification .If provided, patches from given level are extracted without reading WSI properties.
 *  `--model6`: weights for HistoROI model
 
-Model can be downloaded from [here](https://drive.google.com/file/d/1-nFuLI55PjI_v_0liRIka8PpuhGqO72a/view?usp=sharing).
+Model weights can be downloaded from `weights` directory (set as default argument for `--model6`).
 
 A typical command line for running the inference looks like
 `python inference.py --wsis /path/to/wsis`
