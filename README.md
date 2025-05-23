@@ -30,3 +30,18 @@ Model weights can be downloaded from `weights` directory (set as default argumen
 
 A typical command line for running the inference looks like
 `python inference.py --wsis /path/to/wsis`
+
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@article{patil2023efficient,
+  title={Efficient quality control of whole slide pathology images with human-in-the-loop training},
+  author={Patil, Abhijeet and Diwakar, Harsh and Sawant, Jay and Kurian, Nikhil Cherian and Yadav, Subhash and Rane, Swapnil and Bameta, Tripti and Sethi, Amit},
+  journal={Journal of Pathology Informatics},
+  pages={100306},
+  year={2023},
+  publisher={Elsevier}
+}
